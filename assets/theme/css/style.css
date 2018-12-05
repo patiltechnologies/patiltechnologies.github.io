@@ -261,8 +261,10 @@ nav .mbr-section-btn {
   align-items: center;
   -webkit-align-items: center;
   min-height: 100vh;
-  padding-top: 3rem;
-  padding-bottom: 3rem; }
+  
+  padding-top: 9rem;
+  padding-bottom: 3rem; 
+}
 
 /*! Map */
 .map {
