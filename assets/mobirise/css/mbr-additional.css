@@ -1308,8 +1308,15 @@ body {
   color: #efefef;
 }
 .cid-qTkA127IK8 H1 {
-  color: #ffffff;
+  /*color: #ffffff;*/
+  color: #000000;
 }
+
+.cid-qTkA127IK8 H4 {
+  /*color: #ffffff;*/
+  color: #000000;
+}
+
 .cid-rbbySaq680 .navbar {
   background: #efefef;
   transition: none;
