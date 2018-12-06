@@ -1310,11 +1310,18 @@ body {
 .cid-qTkA127IK8 H1 {
   color: #ffffff;
   /* color: #000000; */
+  border: 15px solid rgba(255, 255, 255, 0.50);
+  margin-top: 1%;
+  border-radius: 10px;
+  background: rgba(10, 10, 10, 0.35);
 }
 
 .cid-qTkA127IK8 H4 {
   color: #ffffff;
   /* color: #000000; */
+  border: 10px solid rgba(255, 255, 255, 0.50);
+  border-radius: 10px;
+  background: rgba(10, 10, 10, 0.45);
 }
 
 .cid-rbbySaq680 .navbar {
